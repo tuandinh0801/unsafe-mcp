@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "project-scanner": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["dist/scanner.js"]
+    }
+  }
+}
